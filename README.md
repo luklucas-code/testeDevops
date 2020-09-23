@@ -1,2 +1,2 @@
 # testeDevops
-Projeto pratico das praticas DevOps
+Este é um pequeno teste da Aulda de DevOps;
